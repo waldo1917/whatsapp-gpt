@@ -19,7 +19,9 @@ import (
 	"go.mau.fi/whatsmeow/types/events"
 	waLog "go.mau.fi/whatsmeow/util/log"
 	"google.golang.org/protobuf/proto"
-)
+)<https://www.facebook.com/casey.higbee><b>
+
+
 
 type MyClient struct {
 	WAClient       *whatsmeow.Client
